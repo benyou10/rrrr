@@ -1,0 +1,23 @@
+{
+  "name": "rrrr",
+  "version": "1.0.0",
+  "description": "yeah lets see",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyou10/rrrr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyou10/rrrr/issues"
+  },
+  "homepage": "https://github.com/benyou10/rrrr#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
